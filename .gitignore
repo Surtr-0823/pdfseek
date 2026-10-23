@@ -1,0 +1,9 @@
+# 构建产物
+/pdfseek
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
